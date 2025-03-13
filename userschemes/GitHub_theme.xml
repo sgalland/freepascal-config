@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus>
+    <ColorSchemes Version="13">
+      <Names Count="1">
+        <Item1 Value="GitHub_theme"/>
+      </Names>
+      <Globals Version="13">
+        <SchemeGitHub_theme>
+          <ahaBracketMatch Style="fsBold"/>
+          <ahaCodeFoldingTree Background="3092271" Foreground="clGray"/>
+          <ahaDefault Background="1511693" Foreground="14275017" Style="fsBold"/>
+          <ahaDisabledBreakpoint Background="16762823" Foreground="clGray"/>
+          <ahaEnabledBreakpoint Background="16762823" Foreground="clBlack"/>
+          <ahaErrorLine Background="clRed" Foreground="clWhite"/>
+          <ahaExecutionPoint Background="10066380" Foreground="clBlack"/>
+          <ahaFoldedCode Background="clWhite" Foreground="11184810" FrameColor="clSilver"/>
+          <ahaGutter Background="3092271" Foreground="7960953"/>
+          <ahaGutterSeparator Background="3092271" Foreground="clGray"/>
+          <ahaHighlightAll Background="6974058" Foreground="clBlack"/>
+          <ahaHighlightWord Background="15132390" FrameColor="clSilver"/>
+          <ahaIncrementalSearch Background="6974058" Foreground="clBlack"/>
+          <ahaInvalidBreakpoint Background="clGreen" Foreground="clWhite"/>
+          <ahaLineNumber Background="3092271" Foreground="7960953"/>
+          <ahaModifiedLine Background="11184810" Foreground="5592405" FrameColor="59900"/>
+          <ahaMouseLink Foreground="5329233" FrameColor="5329233" FrameEdges="sfeBottom"/>
+          <ahaOverviewGutter Background="clSilver" Foreground="clGray"/>
+          <ahaRightMargin Background="15790320" Foreground="2302755"/>
+          <ahaSyncroEditArea Background="clMoneyGreen"/>
+          <ahaSyncroEditCur FrameColor="clFuchsia"/>
+          <ahaSyncroEditOther FrameColor="9744532"/>
+          <ahaSyncroEditSync FrameColor="clRed"/>
+          <ahaTemplateEditCur FrameColor="clAqua"/>
+          <ahaTemplateEditOther FrameColor="clMaroon"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia"/>
+          <ahaTextBlock Background="6974058" Foreground="clBlack"/>
+          <ahaUnknownBreakpoint Background="clGreen" Foreground="clWhite"/>
+          <ahaWordGroup FrameColor="clRed"/>
+        </SchemeGitHub_theme>
+      </Globals>
+      <LangObjectPascal Version="13">
+        <SchemeGitHub_theme>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <Assembler Foreground="10270904"/>
+          <Comment Foreground="10392715"/>
+          <Directive Foreground="14392803"/>
+          <Number Foreground="16760953"/>
+          <Reserved_word Foreground="7502847"/>
+          <String Foreground="16766629"/>
+        </SchemeGitHub_theme>
+      </LangObjectPascal>
+      <LangLazarus_Form_definition Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Key Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangLazarus_Form_definition>
+      <LangXML_document Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Attribute_Name Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Attribute_Value Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <CDATA_Section Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <DOCTYPE_Section Background="3092271" Foreground="10526880" Style="fsBold"/>
+          <Element_Name Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Entity_Reference Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Namespace_Attribute_Name Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Namespace_Attribute_Value Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Processing_Instruction Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Text Background="3092271" Foreground="5329233" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangXML_document>
+      <LangHTML_document Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Asp Background="clYellow" Foreground="clBlack"/>
+          <Comment Foreground="clBlue" Style="fsBold"/>
+          <Escape_ampersand Foreground="clLime" Style="fsBold"/>
+          <Identifier Style="fsBold"/>
+          <Reserved_word Style="fsBold"/>
+          <Symbol Foreground="clRed"/>
+          <Unknown_word Foreground="clRed" Style="fsBold"/>
+          <Value Foreground="16744448"/>
+        </SchemeGitHub_theme>
+      </LangHTML_document>
+      <LangC__ Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Assembler Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Preprocessor Background="3092271" Foreground="10526880" Style="fsBold"/>
+          <Reserved_word Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Space Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangC__>
+      <LangPerl Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Pragma Background="3092271" Foreground="10526880" Style="fsBold"/>
+          <Reserved_word Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Space Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Variable Background="clWhite" Foreground="5592405" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangPerl>
+      <LangJava Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Documentation Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Reserved_word Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Space Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangJava>
+      <LangUNIX_Shell_Script Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Reserved_word Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Variable Background="clWhite" Foreground="5592405"/>
+        </SchemeGitHub_theme>
+      </LangUNIX_Shell_Script>
+      <LangPython Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Documentation Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Float Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Hexadecimal Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Non_reserved_keyword Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Octal Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Reserved_word Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <SyntaxError Background="3092271" Foreground="5592405" Style="fsBold"/>
+          <System_functions_and_variables Background="3092271" Foreground="15329769" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangPython>
+      <LangPHP Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Reserved_word Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangPHP>
+      <LangSQL Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Data_type Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Default_packages Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Exception Background="3092271" Foreground="5592405" Style="fsBold"/>
+          <Function Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Reserved_word Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Reserved_word__PL_SQL_ Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <SQL_Plus_command Background="clWhite" Foreground="5592405" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangSQL>
+      <LangCascading_style_sheets Version="13">
+        <SchemeGitHub_theme>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+        </SchemeGitHub_theme>
+      </LangCascading_style_sheets>
+      <LangJavascript Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Reserved_word Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <String Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Symbol Background="3092271" Foreground="15329769" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangJavascript>
+      <LangDiff_File Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Diff_Added_line Background="14540253" Foreground="clBlack"/>
+          <Diff_Changed_Line Background="14869218" Foreground="clBlack"/>
+          <Diff_Chunk_Line_Counts Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Diff_Chunk_Marker Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Diff_Chunk_New_Line_Count Background="3092271" Foreground="10526880" Style="fsBold"/>
+          <Diff_Chunk_Original_Line_Count Background="3092271" Foreground="5329233" Style="fsBold"/>
+          <Diff_New_File Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Diff_Original_File Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Diff_Removed_Line Background="14277081" Foreground="clBlack"/>
+          <Unknown_word Background="clGreen" Foreground="clWhite" Style="fsItalic"/>
+        </SchemeGitHub_theme>
+      </LangDiff_File>
+      <LangMS_DOS_batch_language Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Key Background="3092271" Foreground="10987431" Style="fsBold"/>
+          <Number Background="3092271" Foreground="15329769" Style="fsBold"/>
+          <Variable Background="3092271" Foreground="15329769" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangMS_DOS_batch_language>
+      <LangINI_file Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+          <Comment Background="3092271" Foreground="7960953" Style="fsBold"/>
+          <Section Background="3092271" Foreground="10987431" Style="fsBold"/>
+        </SchemeGitHub_theme>
+      </LangINI_file>
+      <Langpo_language_files Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+        </SchemeGitHub_theme>
+      </Langpo_language_files>
+      <LangPike Version="13">
+        <SchemeGitHub_theme>
+          <ahaDefault Background="3092271" Foreground="15329769"/>
+          <ahaOverviewGutter Background="clNone" Foreground="clNone"/>
+          <ahaRightMargin Foreground="clBlack"/>
+        </SchemeGitHub_theme>
+      </LangPike>
+    </ColorSchemes>
+  </Lazarus>
+</CONFIG>
