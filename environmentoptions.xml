@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <EnvironmentOptions>
+    <Version Lazarus="4.99" Value="112"/>
+    <Language ID="en"/>
+    <LazarusDirectory Value="../lazarus">
+      <History Count="2">
+        <Item1 Value="../lazarus/"/>
+        <Item2 Value="/home/sgalland/fpcupdeluxe/lazarus/"/>
+      </History>
+    </LazarusDirectory>
+    <CompilerFilename Value="/home/sgalland/fpcupdeluxe/fpc/bin/x86_64-linux/fpc.sh">
+      <History Count="4">
+        <Item1 Value="/home/sgalland/fpcupdeluxe/fpc/bin/x86_64-linux/fpc.sh"/>
+        <Item2 Value="/usr/local/bin/fpc"/>
+        <Item3 Value="/usr/bin/fpc"/>
+        <Item4 Value="/opt/fpc/fpc"/>
+      </History>
+    </CompilerFilename>
+    <Debugger Deprecated="Backends/Class-Config moved to DebuggerOptions.xml">
+      <Configs>
+        <Config ConfigName="Standard GDB" ConfigClass="TGDBMIDebugger" DebuggerFilename="/home/sgalland/fpcupdeluxe/fpcbootstrap/gdb/x86_64-linux/gdb" Active="False"/>
+        <Config ConfigName="FpDebug" ConfigClass="TFpDebugDebugger" Active="True"/>
+      </Configs>
+      <CallStackDlg ViewCount="0"/>
+    </Debugger>
+    <DebuggerFilename Value="/home/sgalland/fpcupdeluxe/fpcbootstrap/gdb/x86_64-linux/gdb">
+      <TGDBMIDebugger>
+        <History Count="1">
+          <Item1 Value="/home/sgalland/fpcupdeluxe/fpcbootstrap/gdb/x86_64-linux/gdb"/>
+        </History>
+      </TGDBMIDebugger>
+    </DebuggerFilename>
+    <MakeFilename Value="/usr/bin/make">
+      <History Count="1">
+        <Item1 Value="/usr/bin/make"/>
+      </History>
+    </MakeFilename>
+    <FPCSourceDirectory Value="/home/sgalland/fpcupdeluxe/fpcsrc">
+      <History Count="1">
+        <Item1 Value="/home/sgalland/fpcupdeluxe/fpcsrc"/>
+      </History>
+    </FPCSourceDirectory>
+    <LazDoc Paths="/home/sgalland/fpcupdeluxe/lazarus/docs/xml;/home/sgalland/fpcupdeluxe/lazarus/docs/xml;/home/sgalland/fpcupdeluxe/lazarus/docs/xml;/home/sgalland/fpcupdeluxe/lazarus/docs/xml"/>
+    <TestBuildDirectory Value="/home/sgalland/fpcupdeluxe/projects/">
+      <History Count="4">
+        <Item1 Value="/home/sgalland/fpcupdeluxe/projects/"/>
+        <Item2 Value="~/tmp/"/>
+        <Item3 Value="/tmp/"/>
+        <Item4 Value="/var/tmp/"/>
+      </History>
+    </TestBuildDirectory>
+    <FppkgConfigFile Value="/home/sgalland/fpcupdeluxe/fpcpkgconfig/fppkg.cfg">
+      <History Count="1">
+        <Item1 Value="/home/sgalland/fpcupdeluxe/fpcpkgconfig/fppkg.cfg"/>
+      </History>
+    </FppkgConfigFile>
+    <Recent AlreadyPopulated="True">
+      <ProjectFiles Count="5">
+        <Item1 Value="/home/sgalland/Git/fpc-agi/Interpreter/Interpreter.lpi"/>
+        <Item2 Value="/home/sgalland/fpcupdeluxe/lazarus/examples/imagelist/project1.lpi"/>
+        <Item3 Value="/home/sgalland/fpcupdeluxe/lazarus/examples/openglcontrol/openglcontrol_demo.lpi"/>
+        <Item4 Value="/home/sgalland/fpcupdeluxe/lazarus/examples/sprites/spriteexample.lpi"/>
+        <Item5 Value="/home/sgalland/fpcupdeluxe/lazarus/examples/jpeg/jpegexample.lpi"/>
+      </ProjectFiles>
+      <OpenFiles Count="9">
+        <Item1 Value="/home/sgalland/Git/fpc-agi/Interpreter/logic/agi/agiinterpreter.pas"/>
+        <Item2 Value="/home/sgalland/Git/fpc-agi/Interpreter/agi.pas"/>
+        <Item3 Value="/home/sgalland/Git/fpc-agi/Interpreter/logic/logicdecl.pas"/>
+        <Item4 Value="/home/sgalland/Git/fpc-agi/Interpreter/logic/testcmd.pas"/>
+        <Item5 Value="/home/sgalland/Git/fpc-agi/Interpreter/logic/logictable.pas"/>
+        <Item6 Value="/home/sgalland/Git/fpc-agi/Interpreter/resources/resources.pas"/>
+        <Item7 Value="/home/sgalland/fpcupdeluxe/fpcsrc/rtl/objpas/sysutils/syshelph.inc"/>
+        <Item8 Value="/home/sgalland/Git/fpc-agi/Interpreter/cmntypdecl.pas"/>
+        <Item9 Value="/home/sgalland/Git/fpc-agi/Interpreter/resources/resourceloader.pas"/>
+      </OpenFiles>
+    </Recent>
+    <ExternalTools Version="3"/>
+    <CompilerMessagesFilename>
+      <History Count="1">
+        <Item1 Value="$(FPCSrcDir)/compiler/msg/errordu.msg"/>
+      </History>
+    </CompilerMessagesFilename>
+    <LastCalledByLazarusFullPath Value="/home/sgalland/fpcupdeluxe/lazarus/lazarus"/>
+    <FormEditor>
+      <Rubberband>
+        <SelectionColor Value="8388608"/>
+        <CreationColor Value="128"/>
+      </Rubberband>
+    </FormEditor>
+    <AutoSave LastSavedProjectFile="/home/sgalland/Git/fpc-agi/Interpreter/Interpreter.lpi"/>
+    <ProjInspSortAlphabetically Value="True"/>
+    <ProjInspShowDirHierarchy Value="True"/>
+    <DebuggerOptions>
+      <ShowStopMessage Value="False"/>
+    </DebuggerOptions>
+    <OptionDialog>
+      <Tree>
+        <TEditorOptions>
+          <TEditorMouseOptionsFrame Value="False"/>
+        </TEditorOptions>
+      </Tree>
+    </OptionDialog>
+  </EnvironmentOptions>
+  <MsgView>
+    <Filters>
+      <Filter1 MinUrgency="None" FilterNotesWithoutPos="False"/>
+    </Filters>
+  </MsgView>
+  <ObjectInspectorOptions ShowHints="False" InfoBoxHeight="50">
+    <Version Value="3"/>
+  </ObjectInspectorOptions>
+  <Desktops Count="2" ActiveDesktop="default docked">
+    <Desktop1 Name="default">
+      <Desktop Version="2" FormIdCount="33">
+        <FormIdList a1="Assembler" a2="Watches" a3="BreakPoints" a4="Locals" a5="CallStack" a6="EvaluateModify" a7="Registers" a8="DbgOutput" a9="Inspect" a10="PseudoTerminal" a11="Threads" a12="DbgHistory" a13="MemViewer" a14="DbgEvents" a15="MainIDE" a16="SourceNotebook" a17="MessagesView" a18="UnitDependencies" a19="CodeExplorerView" a20="FPDocEditor" a21="ClipBrdHistory" a22="PkgGraphExplorer" a23="ProjectInspector" a24="EditorFileManager" a25="SearchResults" a26="AnchorEditor" a27="TabOrderEditor" a28="CodeBrowser" a29="IssueBrowser" a30="JumpHistory" a31="ComponentList" a32="MacroListViewer" a33="ObjectInspectorDlg"/>
+      </Desktop>
+      <Assembler>
+        <Caption Value="Assembler"/>
+      </Assembler>
+      <Watches>
+        <Caption Value="Watches"/>
+      </Watches>
+      <BreakPoints>
+        <Caption Value="BreakPoints"/>
+      </BreakPoints>
+      <Locals>
+        <Caption Value="Locals"/>
+      </Locals>
+      <CallStack>
+        <Caption Value="CallStack"/>
+      </CallStack>
+      <EvaluateModify>
+        <Caption Value="EvaluateModify"/>
+      </EvaluateModify>
+      <Registers>
+        <Caption Value="Registers"/>
+      </Registers>
+      <DbgOutput>
+        <Caption Value="DbgOutput"/>
+      </DbgOutput>
+      <Inspect>
+        <Caption Value="Inspect"/>
+      </Inspect>
+      <PseudoTerminal>
+        <Caption Value="PseudoTerminal"/>
+      </PseudoTerminal>
+      <Threads>
+        <Caption Value="Threads"/>
+      </Threads>
+      <DbgHistory>
+        <Caption Value="DbgHistory"/>
+      </DbgHistory>
+      <MemViewer>
+        <Caption Value="MemViewer"/>
+      </MemViewer>
+      <DbgEvents>
+        <Caption Value="DbgEvents"/>
+      </DbgEvents>
+      <MainIDE>
+        <Caption Value="MainIDE"/>
+        <CustomPosition Left="10" Top="30" Width="900" Height="60"/>
+        <Visible Value="True"/>
+      </MainIDE>
+      <SourceNotebook>
+        <Caption Value="SourceNotebook"/>
+      </SourceNotebook>
+      <MessagesView>
+        <Caption Value="MessagesView"/>
+      </MessagesView>
+      <UnitDependencies>
+        <Caption Value="UnitDependencies"/>
+      </UnitDependencies>
+      <CodeExplorerView>
+        <Caption Value="CodeExplorerView"/>
+      </CodeExplorerView>
+      <FPDocEditor>
+        <Caption Value="FPDocEditor"/>
+      </FPDocEditor>
+      <ClipBrdHistory>
+        <Caption Value="ClipBrdHistory"/>
+      </ClipBrdHistory>
+      <PkgGraphExplorer>
+        <Caption Value="PkgGraphExplorer"/>
+      </PkgGraphExplorer>
+      <ProjectInspector>
+        <Caption Value="ProjectInspector"/>
+      </ProjectInspector>
+      <EditorFileManager>
+        <Caption Value="EditorFileManager"/>
+      </EditorFileManager>
+      <SearchResults>
+        <Caption Value="SearchResults"/>
+      </SearchResults>
+      <AnchorEditor>
+        <Caption Value="AnchorEditor"/>
+      </AnchorEditor>
+      <TabOrderEditor>
+        <Caption Value="TabOrderEditor"/>
+      </TabOrderEditor>
+      <CodeBrowser>
+        <Caption Value="CodeBrowser"/>
+      </CodeBrowser>
+      <IssueBrowser>
+        <Caption Value="IssueBrowser"/>
+      </IssueBrowser>
+      <JumpHistory>
+        <Caption Value="JumpHistory"/>
+      </JumpHistory>
+      <ComponentList>
+        <Caption Value="ComponentList"/>
+      </ComponentList>
+      <MacroListViewer>
+        <Caption Value="MacroListViewer"/>
+      </MacroListViewer>
+      <ObjectInspectorDlg>
+        <Caption Value="ObjectInspectorDlg"/>
+        <Visible Value="True"/>
+      </ObjectInspectorDlg>
+      <CompletionWindowOptions>
+        <Width Value="320"/>
+      </CompletionWindowOptions>
+      <IDECoolBarOptions Count="2">
+        <Width Value="266"/>
+        <ToolBar1 Version="1" Count="14">
+          <Button1 Name="NewUnit"/>
+          <Button2 Name="NewForm"/>
+          <Button3 Name="---------------"/>
+          <Button4 Name="Open"/>
+          <Button5 Name="Save"/>
+          <Button6 Name="SaveAll"/>
+          <Button7 Name="---------------"/>
+          <Button8 Name="Toggle between Unit and Form"/>
+          <Button9 Name="---------------"/>
+          <Button10 Name="Find in files"/>
+          <Button11 Name="General environment options"/>
+          <Button12 Name="---------------"/>
+          <Button13 Name="Project Inspector"/>
+          <Button14 Name="View project options"/>
+        </ToolBar1>
+        <ToolBar2 Version="1" Count="11">
+          <Break Value="True"/>
+          <Button1 Name="View Units"/>
+          <Button2 Name="View Forms"/>
+          <Button3 Name="---------------"/>
+          <Button4 Name="Change build mode"/>
+          <Button5 Name="Run without debugging"/>
+          <Button6 Name="Run program"/>
+          <Button7 Name="Pause program"/>
+          <Button8 Name="Stop program"/>
+          <Button9 Name="Step over"/>
+          <Button10 Name="Step into"/>
+          <Button11 Name="Step out"/>
+        </ToolBar2>
+      </IDECoolBarOptions>
+      <EditorToolBarOptions Version="1" Count="4">
+        <Button1 Name="IDEMainMenu/Search/itmJumpings/itmJumpToSection/itmJumpToImplementation"/>
+        <Button2 Name="IDEMainMenu/Search/itmJumpings/itmJumpBack"/>
+        <Button3 Name="IDEMainMenu/Search/itmJumpings/itmJumpForward"/>
+        <Button4 Name="---------------"/>
+      </EditorToolBarOptions>
+    </Desktop1>
+    <Desktop2 Name="default docked" DockMaster="TIDEAnchorDockMaster">
+      <Desktop Version="2" FormIdCount="34">
+        <FormIdList a1="MainIDE" a2="MessagesView" a3="SourceNotebook" a4="SearchResults" a5="PseudoTerminal" a6="ProjectInspector" a7="CallStack" a8="ProjectGroupEditor" a9="Assembler" a10="Watches" a11="BreakPoints" a12="Locals" a13="EvaluateModify" a14="Registers" a15="DbgOutput" a16="Inspect" a17="Threads" a18="DbgHistory" a19="MemViewer" a20="DbgEvents" a21="UnitDependencies" a22="CodeExplorerView" a23="FPDocEditor" a24="ClipBrdHistory" a25="PkgGraphExplorer" a26="EditorFileManager" a27="AnchorEditor" a28="TabOrderEditor" a29="CodeBrowser" a30="IssueBrowser" a31="JumpHistory" a32="ComponentList" a33="MacroListViewer" a34="ObjectInspectorDlg"/>
+      </Desktop>
+      <MainIDE>
+        <Caption Value="MainIDE"/>
+        <CustomPosition Width="320" Height="240"/>
+        <WindowState Value="Maximized"/>
+        <Visible Value="True"/>
+      </MainIDE>
+      <MessagesView>
+        <Caption Value="MessagesView"/>
+        <CustomPosition Left="178" Top="750" Width="1297" Height="204"/>
+        <Visible Value="True"/>
+      </MessagesView>
+      <SourceNotebook>
+        <Caption Value="SourceNotebook"/>
+        <CustomPosition Left="195" Top="94" Width="1303" Height="617"/>
+        <Visible Value="True"/>
+      </SourceNotebook>
+      <SearchResults>
+        <Caption Value="SearchResults"/>
+        <CustomPosition Left="178" Top="750" Width="1297" Height="204"/>
+      </SearchResults>
+      <PseudoTerminal>
+        <Caption Value="PseudoTerminal"/>
+        <CustomPosition Left="178" Top="750" Width="1297" Height="204"/>
+      </PseudoTerminal>
+      <ProjectInspector>
+        <Caption Value="ProjectInspector"/>
+        <CustomPosition Left="1490" Top="146" Width="336" Height="808"/>
+      </ProjectInspector>
+      <CallStack>
+        <Caption Value="CallStack"/>
+        <CustomPosition Left="178" Top="750" Width="1297" Height="204"/>
+      </CallStack>
+      <ProjectGroupEditor>
+        <Caption Value="ProjectGroupEditor"/>
+        <CustomPosition Left="40" Width="1204" Height="326"/>
+      </ProjectGroupEditor>
+      <Assembler>
+        <Caption Value="Assembler"/>
+      </Assembler>
+      <Watches>
+        <Caption Value="Watches"/>
+      </Watches>
+      <BreakPoints>
+        <Caption Value="BreakPoints"/>
+      </BreakPoints>
+      <Locals>
+        <Caption Value="Locals"/>
+      </Locals>
+      <EvaluateModify>
+        <Caption Value="EvaluateModify"/>
+        <CustomPosition Left="40" Width="380" Height="300"/>
+      </EvaluateModify>
+      <Registers>
+        <Caption Value="Registers"/>
+      </Registers>
+      <DbgOutput>
+        <Caption Value="DbgOutput"/>
+      </DbgOutput>
+      <Inspect>
+        <Caption Value="Inspect"/>
+      </Inspect>
+      <Threads>
+        <Caption Value="Threads"/>
+      </Threads>
+      <DbgHistory>
+        <Caption Value="DbgHistory"/>
+      </DbgHistory>
+      <MemViewer>
+        <Caption Value="MemViewer"/>
+      </MemViewer>
+      <DbgEvents>
+        <Caption Value="DbgEvents"/>
+      </DbgEvents>
+      <UnitDependencies>
+        <Caption Value="UnitDependencies"/>
+      </UnitDependencies>
+      <CodeExplorerView>
+        <Caption Value="CodeExplorerView"/>
+      </CodeExplorerView>
+      <FPDocEditor>
+        <Caption Value="FPDocEditor"/>
+      </FPDocEditor>
+      <ClipBrdHistory>
+        <Caption Value="ClipBrdHistory"/>
+      </ClipBrdHistory>
+      <PkgGraphExplorer>
+        <Caption Value="PkgGraphExplorer"/>
+      </PkgGraphExplorer>
+      <EditorFileManager>
+        <Caption Value="EditorFileManager"/>
+      </EditorFileManager>
+      <AnchorEditor>
+        <Caption Value="AnchorEditor"/>
+      </AnchorEditor>
+      <TabOrderEditor>
+        <Caption Value="TabOrderEditor"/>
+      </TabOrderEditor>
+      <CodeBrowser>
+        <Caption Value="CodeBrowser"/>
+      </CodeBrowser>
+      <IssueBrowser>
+        <Caption Value="IssueBrowser"/>
+      </IssueBrowser>
+      <JumpHistory>
+        <Caption Value="JumpHistory"/>
+      </JumpHistory>
+      <ComponentList>
+        <Caption Value="ComponentList"/>
+      </ComponentList>
+      <MacroListViewer>
+        <Caption Value="MacroListViewer"/>
+      </MacroListViewer>
+      <ObjectInspectorDlg>
+        <Caption Value="ObjectInspectorDlg"/>
+      </ObjectInspectorDlg>
+      <Dialogs Count="7">
+        <Dialog1>
+          <Name Value="TLazFindReplaceDialog"/>
+          <Size Width="487" Height="367"/>
+        </Dialog1>
+        <Dialog2>
+          <Name Value="TIDEOptionsDialog"/>
+          <Size Width="800" Height="500"/>
+        </Dialog2>
+        <Dialog3>
+          <Name Value="THelpSelectorDialog"/>
+          <Size Width="500" Height="300"/>
+        </Dialog3>
+        <Dialog4>
+          <Name Value="TLazFindInFilesDialog"/>
+          <Size Width="400" Height="457"/>
+        </Dialog4>
+        <Dialog5>
+          <Name Value="TFindRenameIdentifierDialog"/>
+          <Size Width="460" Height="719"/>
+        </Dialog5>
+        <Dialog6>
+          <Name Value="TEvaluateDlg"/>
+          <Size Width="380" Height="300"/>
+        </Dialog6>
+        <Dialog7>
+          <Name Value="TBuildModesCheckList"/>
+          <Size Width="350" Height="300"/>
+        </Dialog7>
+      </Dialogs>
+      <CompletionWindowOptions>
+        <Width Value="320"/>
+      </CompletionWindowOptions>
+      <IDECoolBarOptions Count="2">
+        <Width Value="266"/>
+        <ToolBar1 Version="1" Count="14">
+          <Button1 Name="NewUnit"/>
+          <Button2 Name="NewForm"/>
+          <Button3 Name="---------------"/>
+          <Button4 Name="Open"/>
+          <Button5 Name="Save"/>
+          <Button6 Name="SaveAll"/>
+          <Button7 Name="---------------"/>
+          <Button8 Name="Toggle between Unit and Form"/>
+          <Button9 Name="---------------"/>
+          <Button10 Name="Find in files"/>
+          <Button11 Name="General environment options"/>
+          <Button12 Name="---------------"/>
+          <Button13 Name="Project Inspector"/>
+          <Button14 Name="View project options"/>
+        </ToolBar1>
+        <ToolBar2 Version="1" Count="11">
+          <Break Value="True"/>
+          <Button1 Name="View Units"/>
+          <Button2 Name="View Forms"/>
+          <Button3 Name="---------------"/>
+          <Button4 Name="Change build mode"/>
+          <Button5 Name="Run without debugging"/>
+          <Button6 Name="Run program"/>
+          <Button7 Name="Pause program"/>
+          <Button8 Name="Stop program"/>
+          <Button9 Name="Step over"/>
+          <Button10 Name="Step into"/>
+          <Button11 Name="Step out"/>
+        </ToolBar2>
+      </IDECoolBarOptions>
+      <EditorToolBarOptions Version="1" Count="4">
+        <Button1 Name="Jump to Implementation"/>
+        <Button2 Name="Jump back"/>
+        <Button3 Name="Jump forward"/>
+        <Button4 Name="---------------"/>
+      </EditorToolBarOptions>
+      <ObjectInspectorOptions>
+        <SplitterX>
+          <PropertyPage Value="110"/>
+          <EventPage Value="110"/>
+          <FavoritePage Value="110"/>
+          <RestrictedPage Value="110"/>
+        </SplitterX>
+        <ComponentTree>
+          <Height Value="160"/>
+        </ComponentTree>
+        <InfoBox>
+          <Height Value="50"/>
+        </InfoBox>
+      </ObjectInspectorOptions>
+      <AnchorDocking>
+        <Version Value="1"/>
+        <MainConfig>
+          <Nodes ChildCount="1">
+            <Item1 Name="MainIDE" Type="CustomSite" WindowState="Maximized" Monitor="1" ChildCount="1">
+              <Bounds Width="1829" Height="927">
+                <WorkArea>
+                  <Rect Right="1829" Bottom="1029"/>
+                </WorkArea>
+              </Bounds>
+              <Item1 Name="AnchorDockSite13" Type="Layout" WindowState="Maximized" Monitor="0" ChildCount="7">
+                <Bounds Top="64" Width="1829" Height="863" SplitterPos="62"/>
+                <Anchors Align="Bottom"/>
+                <Item1 Name="SourceNotebook" Type="Control" WindowState="Maximized" Monitor="0">
+                  <Bounds Left="155" Width="1323" Height="617"/>
+                  <Anchors Left="AnchorDockSplitter4" Right="AnchorDockSplitter3" Bottom="AnchorDockSplitter2"/>
+                </Item1>
+                <Item2 Name="AnchorDockSplitter2" Type="SplitterHorizontal" WindowState="Maximized" Monitor="0">
+                  <Bounds Left="155" Top="617" Width="1323" Height="7"/>
+                  <Anchors Left="AnchorDockSplitter4" Right="AnchorDockSplitter3"/>
+                </Item2>
+                <Item3 Name="AnchorDockSite14" Type="Pages" WindowState="Maximized" Monitor="0" ChildCount="7">
+                  <Bounds Left="155" Top="624" Width="1323" Height="239"/>
+                  <Anchors Left="AnchorDockSplitter4" Top="AnchorDockSplitter2" Right="AnchorDockSplitter3"/>
+                  <Item1 Name="MessagesView" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="1297" Height="204"/>
+                    <Anchors Align="Client"/>
+                  </Item1>
+                  <Item2 Name="Watches" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="1297" Height="204"/>
+                    <Anchors Align="Client"/>
+                  </Item2>
+                  <Item3 Name="BreakPoints" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="1297" Height="204"/>
+                    <Anchors Align="Client"/>
+                  </Item3>
+                  <Item4 Name="CallStack" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="1297" Height="204"/>
+                    <Anchors Align="Client"/>
+                  </Item4>
+                  <Item5 Name="Assembler" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="1297" Height="204"/>
+                    <Anchors Align="Client"/>
+                  </Item5>
+                  <Item6 Name="PseudoTerminal" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="1297" Height="204"/>
+                    <Anchors Align="Client"/>
+                  </Item6>
+                  <Item7 Name="SearchResults" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="1297" Height="204"/>
+                    <Anchors Align="Client"/>
+                  </Item7>
+                </Item3>
+                <Item4 Name="AnchorDockSplitter3" Type="SplitterVertical" WindowState="Maximized" Monitor="0">
+                  <Bounds Left="1478" Width="9" Height="863"/>
+                </Item4>
+                <Item5 Name="AnchorDockSite15" Type="Pages" WindowState="Maximized" Monitor="0" ChildCount="3">
+                  <Bounds Left="1487" Width="342" Height="863"/>
+                  <Anchors Left="AnchorDockSplitter3"/>
+                  <Header PageIndex="2"/>
+                  <Item1 Name="CodeExplorerView" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="336" Height="808"/>
+                    <Anchors Align="Client"/>
+                  </Item1>
+                  <Item2 Name="ComponentList" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="336" Height="808"/>
+                    <Anchors Align="Client"/>
+                  </Item2>
+                  <Item3 Name="ProjectInspector" Type="Control" WindowState="Maximized" Monitor="0">
+                    <Bounds Width="336" Height="808"/>
+                    <Anchors Align="Client"/>
+                  </Item3>
+                </Item5>
+                <Item6 Name="ObjectInspectorDlg" Type="Control" WindowState="Maximized" Monitor="0">
+                  <Bounds Width="151" Height="863"/>
+                  <Anchors Right="AnchorDockSplitter4"/>
+                </Item6>
+                <Item7 Name="AnchorDockSplitter4" Type="SplitterVertical" WindowState="Maximized" Monitor="0">
+                  <Bounds Left="151" Width="4" Height="863"/>
+                </Item7>
+              </Item1>
+            </Item1>
+          </Nodes>
+        </MainConfig>
+        <Settings FloatingWindowsOnTop="True" HeaderStyle="ThemedButton"/>
+      </AnchorDocking>
+    </Desktop2>
+  </Desktops>
+</CONFIG>

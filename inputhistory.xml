@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <InputHistory>
+    <Version Value="1"/>
+    <Find>
+      <History>
+        <Find Count="3">
+          <Item1 Value="execute"/>
+          <Item2 Value="Exec"/>
+          <Item3 Value="LoadResources"/>
+        </Find>
+      </History>
+      <Version Value="1"/>
+    </Find>
+    <FindInFiles>
+      <History>
+        <Paths Count="1">
+          <Item1 Value="/home/sgalland/Git/fpc-agi/Interpreter/resources/"/>
+        </Paths>
+        <Masks Count="1">
+          <Item1 Value="*.pas;*.pp;*.inc;*.lpr"/>
+        </Masks>
+      </History>
+      <Options SearchProjectGroup="True" SearchOpen="False"/>
+    </FindInFiles>
+    <FileDialog InitialDir="/home/sgalland/Git/fpc-agi/Interpreter/logic/agi/">
+      <HistoryList Count="3">
+        <Item1 Value="/home/sgalland/Git/fpc-agi/Interpreter/logic/agi/"/>
+        <Item2 Value="/home/sgalland/Git/fpc-agi/Interpreter/logic/"/>
+        <Item3 Value="/home/sgalland/Git/fpc-agi/Interpreter/"/>
+      </HistoryList>
+    </FileDialog>
+    <HistoryLists Count="3">
+      <List0 Name="CleanBuildFileMask" Type="File" Count="2">
+        <Item1 Value="*.ppu;*.ppl;*.o;*.or"/>
+        <Item2 Value="*"/>
+      </List0>
+      <List1 Name="BreakPointExpression" Count="1">
+        <Item1 Value="Index = 81"/>
+      </List1>
+      <List2 Name="TEvaluateDlg" Count="1">
+        <Item1 Value="Index"/>
+      </List2>
+    </HistoryLists>
+  </InputHistory>
+</CONFIG>

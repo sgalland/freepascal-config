@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Debugger Version="1">
+    <Backends Version="1">
+      <Config ConfigName="Standard GDB" ConfigClass="TGDBMIDebugger" DebuggerFilename="/home/sgalland/fpcupdeluxe/fpcbootstrap/gdb/x86_64-linux/gdb" UID="{05788184-B037-4364-9C88-DFD17FD9D08F}"/>
+      <Config ConfigName="FpDebug" ConfigClass="TFpDebugDebugger" Active="True" UID="{B2C11884-E021-4AE3-B5CA-F03F570AAEFB}"/>
+    </Backends>
+    <DisplayFormatConfigs>
+      <dtfGlobal NumInherit="False" Num2Inherit="False" ENumInherit="False" ENumValInherit="False" BoolInherit="False" CharInherit="False" FloatInherit="False" StructInherit="False" StructAddrInherit="False" PointerInherit="False" PointerAddrInherit="False" ArrayLineInherit="False" MultiLineInherit="False" ArrayNavBarInherit="False"/>
+    </DisplayFormatConfigs>
+  </Debugger>
+</CONFIG>

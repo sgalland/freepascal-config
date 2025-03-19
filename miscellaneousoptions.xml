@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <MiscellaneousOptions>
+    <Version Value="3"/>
+    <BuildLazarusOptions>
+      <Profiles Count="4">
+        <Profile0 Name="Normal IDE">
+          <LCLPlatform Value="qt5"/>
+          <IdeBuildMode Value="Build"/>
+          <Options Count="1">
+            <Item1 Value="-g -gl -O1"/>
+          </Options>
+        </Profile0>
+        <Profile1 Name="Debug IDE">
+          <LCLPlatform Value="qt5"/>
+          <IdeBuildMode Value="Build"/>
+          <Options Count="1">
+            <Item1 Value="-gw3 -gl -gh -gt -Co -Cr -Ci -Sa"/>
+          </Options>
+        </Profile1>
+        <Profile2 Name="Optimized IDE">
+          <LCLPlatform Value="qt5"/>
+          <IdeBuildMode Value="Build"/>
+          <Options Count="1">
+            <Item1 Value="-O3 -g- -Xs"/>
+          </Options>
+        </Profile2>
+        <Profile3 Name="Clean Up + Build all">
+          <LCLPlatform Value="qt5"/>
+          <IdeBuildMode Value="Clean All + Build"/>
+        </Profile3>
+      </Profiles>
+      <StaticAutoInstallPackages Count="26">
+        <Item1 Value="LazTestInsight"/>
+        <Item2 Value="SDFLaz"/>
+        <Item3 Value="DateTimeCtrls"/>
+        <Item4 Value="lhelpcontrolpkg"/>
+        <Item5 Value="AnchorDocking"/>
+        <Item6 Value="TAChartLazarusPkg"/>
+        <Item7 Value="SynEditDsgn"/>
+        <Item8 Value="SQLDBLaz"/>
+        <Item9 Value="ProjTemplates"/>
+        <Item10 Value="MemDSLaz"/>
+        <Item11 Value="lazdaemon"/>
+        <Item12 Value="jcfidelazarus"/>
+        <Item13 Value="InstantFPCLaz"/>
+        <Item14 Value="fpcunitide"/>
+        <Item15 Value="ExternHelp"/>
+        <Item16 Value="DBFLaz"/>
+        <Item17 Value="DateTimeCtrlsDsgn"/>
+        <Item18 Value="Cody"/>
+        <Item19 Value="ChmHelpPkg"/>
+        <Item20 Value="AnchorDockingDsgn"/>
+        <Item21 Value="lazprojectgroups"/>
+        <Item22 Value="DockedFormEditor"/>
+        <Item23 Value="leakview"/>
+        <Item24 Value="LazDebuggerLldb"/>
+        <Item25 Value="LazControlDsgn"/>
+        <Item26 Value="LazDebuggerFp"/>
+      </StaticAutoInstallPackages>
+    </BuildLazarusOptions>
+  </MiscellaneousOptions>
+</CONFIG>
